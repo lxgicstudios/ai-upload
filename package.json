@@ -1,11 +1,31 @@
 {
   "name": "ai-upload",
   "version": "1.0.0",
-  "description": "Generate file upload handling code",
+  "description": "AI-powered file upload setup - S3/Cloudinary integration with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-upload": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["upload","files","s3","storage","multer","ai","cli"],
+  "bin": {
+    "ai-upload": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "upload",
+    "file",
+    "s3",
+    "cloudinary",
+    "multer",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "storage",
+    "media"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
