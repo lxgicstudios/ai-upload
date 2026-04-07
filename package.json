@@ -1,5 +1,5 @@
 {
-  "name": "ai-upload",
+  "name": "@lxgicstudios/ai-upload",
   "version": "1.0.0",
   "description": "AI-powered file upload setup - S3/Cloudinary integration with GPT",
   "main": "dist/index.js",
